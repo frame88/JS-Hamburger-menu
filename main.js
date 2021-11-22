@@ -13,3 +13,7 @@ hamburgClose.addEventListener('click', function() {
 
 const cicimiao = document.getElementById("barre");
 cicimiao.style.color = "red";
+
+const logoz = document.getElementById("logo");
+logoz.style.color = "yellow";
+logoz.style.backgroundColor = "red";
