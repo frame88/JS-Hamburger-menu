@@ -10,3 +10,6 @@ hamburg.addEventListener('click', function() {
 hamburgClose.addEventListener('click', function() {
     nav.classList.remove("active");
 }) 
+
+const cicimiao = document.getElementById("barre");
+cicimiao.style.color = "red";
