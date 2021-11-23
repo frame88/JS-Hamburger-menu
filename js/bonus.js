@@ -11,7 +11,7 @@ hamburgClosez.addEventListener('click', function () {
     navz.classList.remove("active");
 })
 
-const modcolor = document.getElementById("barre");
+const modcolor = document.getElementById("barre");  
 modcolor.style.color = "red";
 
 const logozz = document.getElementById("logo");
